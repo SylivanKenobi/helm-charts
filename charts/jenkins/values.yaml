@@ -287,8 +287,6 @@ controller:
   # and must start and end with an alphanumeric character (e.g. 'my-name',  or '123-abc')
   additionalExistingSecrets: []
   #  - name: secret-name-1
-  #    keyName: username
-  #  - name: secret-name-1
   #    keyName: password
 
   additionalSecrets: []
